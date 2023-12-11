@@ -1,2 +1,2 @@
-<h1>Welcome to DevOps ISETKR !!! Deploiement avec GIT-->Github-->jenkins-->webapp.war-->container Tomcat sur une autre VM </h1>
+<h1>Welcome to DevOps ISETKR !!! Deploiement automatique jenkins -->ansible-->Tomcat Ch.Manar</h1>
 
